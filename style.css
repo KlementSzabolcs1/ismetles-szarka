@@ -1,0 +1,40 @@
+body {
+    background-color: #F0F8FF;
+    color: #00008B;
+    
+}
+
+h2 {
+    color: #DC143C;
+}
+#kozep {
+    text-align: center;
+    margin: auto; 
+    
+}
+hr {
+    width: 70%;
+}
+#kep1 {
+    height: 230pt;
+    width: 153pt;
+    border: black solid 1pt;
+}
+#jobbra {
+    text-align: right;
+}
+
+table {
+    width: 400pt;
+    margin: auto;
+}
+#tabla {
+    margin: auto;
+    text-align: center;
+    width: 500pt;
+    
+}
+#kek {
+    color: #F0F8FF;
+    background-color: #DC143C;
+}
